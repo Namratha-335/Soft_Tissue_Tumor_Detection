@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+.DS_Store
+.ipynb_checkpoints
+*.sqlite3
+*.db
+*.log
+*.png
+*.jpg
+*.jpeg
+*.hdf5

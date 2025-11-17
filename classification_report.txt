@@ -1,0 +1,16 @@
+Brain Tumor Detection - Classification Report
+======================================================================
+
+Test Accuracy: 76.65%
+Test Loss: 4.1470
+
+                  precision    recall  f1-score   support
+
+    glioma_tumor      0.923     0.360     0.518       100
+meningioma_tumor      0.705     0.896     0.789       115
+        no_tumor      0.752     0.981     0.851       105
+ pituitary_tumor      0.833     0.811     0.822        74
+
+        accuracy                          0.766       394
+       macro avg      0.803     0.762     0.745       394
+    weighted avg      0.797     0.766     0.743       394
